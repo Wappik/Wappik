@@ -27,8 +27,15 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-##
-[![trophy](https://github-profile-trophy.vercel.app/?username=Wappik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 📈 Stats
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Wappik&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=Wappik&show_icons=true&hide_border=true" alt="Wappik's GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Wappik.Wappik" alt="visitors">
+</div>
 
 
 <!--
