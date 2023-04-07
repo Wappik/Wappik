@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am **Duma Eduard**, a bachelor of the **Applied Mathemtics & Informatics** in the **Vernadsky CFU**, and I graduated in mid-2022.
+🎓 I am **Duma Eduard**, a bachelor of the **Applied Mathemtics & Informatics** in the **Vernadsky CFU**, and I graduated in mid-2022. At the moment I am studying for a master's degree at the **Kuban State Technological University** in the direction of **Applied Informatics**.
 
 ## 🛠️ Skills
 
